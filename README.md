@@ -1,4 +1,4 @@
-# Human resources analysis using SQL and Power BI
+# Python for datascience
  Python is a high-level, interpreted programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes code readability and enables programmers to express concepts in fewer lines of code compared to other languages. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
 
 Key features of Python include:
